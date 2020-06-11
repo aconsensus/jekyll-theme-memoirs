@@ -2,8 +2,8 @@
 name: "Consensus"
 title: "Consensus"
 description: "Asociación Consensus"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/header3.png'
+favicon: 'assets/images/favicon.png'
 baseurl: /jekyll-theme-memoirs
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
